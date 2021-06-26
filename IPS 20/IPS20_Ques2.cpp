@@ -1,5 +1,4 @@
 /*
-KVP_STLList_Fibo
 Write a CPP Program and Subsequent Pseudo Code to implement fibonacci series for first 'N' numbers and store them in STL List.
 
 Consider the below Table(Character Fibonacci)
